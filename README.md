@@ -8,13 +8,13 @@
 
 ```text
 💬 Programming Languages: 
-Go                       59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
