@@ -8,13 +8,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 4 mins         ████████████████████████░   96.38 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
