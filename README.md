@@ -8,13 +8,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
