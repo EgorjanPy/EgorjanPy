@@ -4,5 +4,18 @@
 <h3 align="center">Just chill guy from Russia</h3>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       3 hrs 18 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+GoLand                   3 hrs 18 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
