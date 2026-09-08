@@ -10,17 +10,17 @@
 
 ```text
 💬 Programming Languages: 
-Go                       5 hrs 10 mins       ████████████████████░░░░░   81.28 % 
-Protocol Buffer          39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-GitIgnore file           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Go                       5 hrs 21 mins       ███████████████████████░░   92.27 % 
+Protocol Buffer          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-GoLand                   6 hrs 22 mins       █████████████████████████   100.00 % 
+GoLand                   5 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
